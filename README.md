@@ -1,5 +1,5 @@
 # Introduction-to-Git
-This course introduces learners to version control using Git. You will discover the importance of version control when working on data science projects and explore how you can use Git to track files, compare differences, modify and save files, undo changes, and allow collaborative development through the use of branches. You will gain an introduction to the structure of a repository, how to create new repositories and clone existing ones, and show how Git stores data. By working through typical data science tasks, you will gain the skills to handle conflicting files.
+In this course I introduced to version control using Git. I have discovered the importance of version control and explored how I can use Git to track files, compare differences, modify and save files, undo changes, and allow collaborative development through the use of branches. I have gained an introduction to the structure of a repository, how to create new repositories and clone existing ones, and show how Git stores data. By working through typical data science tasks, I gained the skills to handle conflicting files.
 
 ## Course Material 
 - **Chapter 1: Introduction to Git**: In the first chapter, I have learned what version control is and why it is essential for data projects. Then, I have discovered what Git is and how to use it for a version control workflow.
